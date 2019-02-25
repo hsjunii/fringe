@@ -1,0 +1,336 @@
+/* 쉼 1~3 */
+.swim_bi1{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    left: 0px;
+}
+.swim_bi2{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+}
+.swim_bi3{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+}
+.swim_box1 .swim_div1{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    left: 0px;
+    /* line-height: 50px; */
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 250px;
+    color: #fff;
+    text-align: center;
+    transition: all 0.1s ease-in-out;
+    /* all은 생략 가능 */
+    opacity: 0;
+    /* 불투명도(0.0~1.0) */
+}
+.swim_box2 .swim_div2{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    /* line-height: 50px; */
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: all 0.1s ease-in-out;
+    /* all은 생략 가능 */
+    opacity: 0;
+    /* 불투명도(0.0~1.0) */
+}
+.swim_box3 .swim_div3{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+    /* line-height: 50px; */
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: all 0.1s ease-in-out;
+    /* all은 생략 가능 */
+    opacity: 0;
+    /* 불투명도(0.0~1.0) */
+}
+
+/* 생각 1~4 */
+.saenggak_bi1{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+}
+.saenggak_bi2{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    top: 0px;
+}
+.saenggak_bi3{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    bottom: 0px;
+}
+.saenggak_bi4{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.saenggak_box1 .saenggak_div1{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.saenggak_box2 .saenggak_div2{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    top: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.saenggak_box3 .saenggak_div3{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    bottom: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.saenggak_box4 .saenggak_div4{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+
+/* 느낌 1~4 */
+.neukkim_bi1{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+}
+.neukkim_bi2{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    top: 0px;
+}
+.neukkim_bi3{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    bottom: 0px;
+}
+.neukkim_bi4{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.neukkim_box1 .neukkim_div1{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.neukkim_box2 .neukkim_div2{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    top: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.neukkim_box3 .neukkim_div3{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    left: 0px;
+    bottom: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.neukkim_box4 .neukkim_div4{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 318px;
+    right: 0px;
+    bottom: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 80px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+
+/* 행복 1,2 */
+.haengbok_bi1{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    left: 0px;
+}
+.haengbok_bi2{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    right: 0px;
+}
+
+.haengbok_box1 .haengbok_div1{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    left: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 250px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+.haengbok_box2 .haengbok_div2{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 548px;
+    height: 640px;
+    right: 0px;
+    
+    background: rgba(0, 55, 175, 0.8);
+    box-sizing: border-box;
+    padding-top: 250px;
+    color: #fff;
+    text-align: center;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
